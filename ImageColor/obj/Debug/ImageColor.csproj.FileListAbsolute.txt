@@ -1,0 +1,9 @@
+E:\code\C#\ImageColor\ImageColor\bin\Debug\ImageColor.exe
+E:\code\C#\ImageColor\ImageColor\bin\Debug\ImageColor.pdb
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.Form1.resources
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.Form2.resources
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.Properties.Resources.resources
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.csproj.GenerateResource.Cache
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.exe
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.pdb
+E:\code\C#\ImageColor\ImageColor\obj\Debug\ImageColor.csprojResolveAssemblyReference.cache
